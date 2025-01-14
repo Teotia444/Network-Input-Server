@@ -4,7 +4,9 @@ This project contains a modified version of https://github.com/CelestinaDragoni/
 
 ## Overview
 Here is a video showing the input viewer in action:
-https://youtu.be/jQXIh98hrnE 
+
+[![YouTube](http://i.ytimg.com/vi/jQXIh98hrnE/hqdefault.jpg)](https://www.youtube.com/watch?v=jQXIh98hrnE)
+
 As this is using OJD, you can use any features OJD gives you. This includes chroma keys, skins, etc...
 
 ## Setups
