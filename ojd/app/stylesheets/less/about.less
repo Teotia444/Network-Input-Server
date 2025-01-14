@@ -1,0 +1,73 @@
+#ojd-about-model {
+	img {
+		width:300px;
+	}
+	a {
+		color:@color-font;
+		&:hover {
+			color:@color-accent;
+		}
+	}
+
+	p {
+		line-height:1.4em;
+		padding-top:20px;
+	}
+	h1 {
+		font-size:20px;
+	}
+
+	pre,.ojd-modal-credits {
+
+		margin-top:5px;
+		line-height:1.4em;
+		padding:10px;
+		width:100%;
+		height:200px;
+		background:@color-darker;
+		border:1px solid @color-darkest;
+		overflow:auto;
+
+		&::-webkit-scrollbar {
+			width:10px;
+			background:@color-darkest;
+		}
+
+		&::-webkit-scrollbar-thumb  {
+			background:@color-light;
+		}
+	}
+	.ojd-modal-credits {
+		height:500px;
+		h2 {
+            font-size: 18px;
+            padding: 5px 0px;
+            margin-bottom: 10px;
+            margin: 0;
+            border-bottom: 1px solid @color-light;
+        }
+        h3 {
+            font-size: 14px;
+            padding: 5px 0px;
+            padding-top: 15px;
+            margin: 0;
+        }
+        p {
+            padding: 0;
+        }
+        .space {
+            padding: 10px;
+        }
+	}
+
+	ul {
+		margin-left:10px;
+		list-style: square outside none;
+		li {
+			margin-left:20px;
+			line-height:16px;
+		}
+	}
+
+
+}

@@ -1,0 +1,30 @@
+{
+	"id":"ojd-nintendo-gamecube",
+	"name":"Nintendo Gamecube",
+	"author":"Anthony Mattera (KernelZechs)",
+	"version":"3.0",
+	"copyright":"Copyright 2019 Anthony Mattera (KernelZechs), Open Joystick Display",
+	"license":"BSD 4-Clause Attribution",
+	"website":"https://ojdproject.com",
+	"styles":[
+        {"id":"purple-new", "name":"Gamecube Purple",    "file":"theme-gamecube-purple.html",   "mastercss":"theme-gamecube.css"},
+        {"id":"silver-new", "name":"Gamecube Silver",    "file":"theme-gamecube-silver.html",   "mastercss":"theme-gamecube.css"},
+        {"id":"orange-new", "name":"Gamecube Orange",    "file":"theme-gamecube-orange.html",   "mastercss":"theme-gamecube.css"},
+        {"id":"pink-new",   "name":"Gamecube Pink",      "file":"theme-gamecube-pink.html",   "mastercss":"theme-gamecube.css"},
+        {"id":"bronze-new", "name":"Gamecube Bronze",    "file":"theme-gamecube-bronze.html",   "mastercss":"theme-gamecube.css"},
+        {"id":"black-new",  "name":"Gamecube Black",     "file":"theme-gamecube-black.html",   "mastercss":"theme-gamecube.css"},
+		{"id":"purple", "name":"Gamecube Purple (Flat)"},
+		{"id":"silver", "name":"Gamecube Silver (Flat)"},
+		{"id":"orange", "name":"Gamecube Orange (Flat)"},
+		{"id":"pink", "name":"Gamecube Pink (Flat)"},
+		{"id":"bronze", "name":"Gamecube Bronze (Flat)"},
+		{"id":"black", "name":"Gamecube Black (Flat)"},
+		{"id":"streamer-white", 	"name":"Streamer (White Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+		{"id":"streamer-purple", 	"name":"Streamer (Purple Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+		{"id":"streamer-orange", 	"name":"Streamer (Orange Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+		{"id":"streamer-pink", 		"name":"Streamer (Pink Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+		{"id":"streamer-green", 	"name":"Streamer (Green Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+		{"id":"streamer-red", 		"name":"Streamer (Red Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"}
+	]
+}

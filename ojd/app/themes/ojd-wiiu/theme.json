@@ -1,0 +1,15 @@
+{
+    "id":"ojd-wiiu",
+    "name":"Wii U",
+    "author":"Teotia444",
+    "version":"1.0",
+    "styles":[        
+        {"id":"streamer-pro-white", "name":"Default (White Active)", "file":"theme-pro-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer-pro.css"},
+        {"id":"streamer-pro-purple", "name":"Default (Purple Active)", "file":"theme-pro-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer-pro.css"},
+        {"id":"streamer-pro-orange", "name":"Default (Orange Active)", "file":"theme-pro-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer-pro.css"},
+        {"id":"streamer-pro-pink", "name":"Default (Pink Active)", "file":"theme-pro-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer-pro.css"},
+        {"id":"streamer-pro-green", "name":"Default (Green Active)", "file":"theme-pro-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer-pro.css"},
+        {"id":"streamer-pro-red", "name":"Default (Red Active)", "file":"theme-pro-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer-pro.css"},
+        {"id":"streamer-pro-blue", "name":"Default (Blue Active)", "file":"theme-pro-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer-pro.css"}
+    ]
+}
