@@ -1,5 +1,5 @@
 # Network Input Server
-Experimental Aroma plugin to connect wii u inputs to OJD
+Poorly written experimental Aroma plugin to connect wii u inputs to OJD
 This project contains a modified version of https://github.com/CelestinaDragoni/open-joystick-display, credits to the people who worked on it for the different GUIs and input display skins.
 
 ## Overview
